@@ -1,6 +1,7 @@
-# Amazon.reviews.handmade.io
-This blog resume different reviews from 5 different categories taking into account positive , negative and neutral reviews. 
+# Reviews de productos hechos a mano de Amazon 
 
+
+Este blog resume las reviews de Amazon tanto positivas , neutras y negativas de 5 diferentes categorias de productos hechos a mano: 
 
 
 ================ COMPLAINS ================
